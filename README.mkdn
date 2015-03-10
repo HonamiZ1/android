@@ -1,7 +1,7 @@
-Validus-Lollipop
-================
+Validus-Lollipop-Sony
+=====================
 
-    repo init -u git://github.com/Team-Validus/android.git -b lp5.0
+    repo init -u git://github.com/HonamiZ1/android.git -b lp5.0
 
 Then to sync up:
 
