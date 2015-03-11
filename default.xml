@@ -527,7 +527,7 @@
   <project path="device/sony/common" name="Cyanogenmod/android_device_sony_common" />
   <project path="device/sony/qcom-common" name="Cyanogenmod/android_device_sony_qcom-common" />
   <project path="kernel/sony/msm8974" name="Cyanogenmod/android_kernel_sony_msm8974" />
-  <project path="device/sony/msm8974-common" name="device_sony_msm8974-common" remote="tv" revision="lp5.0" />
+  <project path="device/sony/msm8974-common" name="android_device_sony_msm8974-common" remote="tv" revision="lp5.0" />
   <project path="hardware/sony/thermanager" name="CyanogenMod/android_hardware_sony_thermanager" />
   <project path="vendor/sony" name="proprietary_vendor_sony" remote="tm" revision="cm-12.0" />
   
